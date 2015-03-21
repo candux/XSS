@@ -1,1 +1,6 @@
-+ADw-img src+AD0-x onerror+AD0-alert(1);+AD4-
+<svg xmlns=“http://www.w3.org/1999/svg“>
+<script>
+alert(1)
+</script>
+</svg>
+
